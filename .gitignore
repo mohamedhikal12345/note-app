@@ -1,14 +1,14 @@
-# Node modules
+# Ignore node_modules
 node_modules/
 
-# Environment variables
+# Ignore environment variables
 .env
 
 # Logs
-logs/
 *.log
+logs/
 
-# OS or editor files
+# Editor settings
+.vscode/
 .DS_Store
 Thumbs.db
-.vscode/
